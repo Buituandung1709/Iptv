@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml"
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://vips-livecdn.fptplay.net/Tm9uZXx2dHYxaGRfdmhscy5zbWlsfGZwdHwxNzEzODU5NjYyfDIxLjE2OS4xMzIuNzF8MzA5NzgwMTIzODE1NjgwOWNjNDM1Yjc0NTdmYzA4NWU/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
